@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-a-dev/register/main/static/schema.json",
+  "domain": "vocca",
+  "subdomain": "is-a.dev",
+  "owner": {
+    "username": "ricaliveofficial-netizen",
+    "email": "ricaliveofficial@gmail.com"
+  },
+  "records": {
+    "A": ["76.76.21.21"]
+  }
+}
